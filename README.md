@@ -2,7 +2,7 @@
 
 <h2>A Netflix clone created using React and Tailwind as the frontend and firebase as the backend.</h2>
 
-<p>This website is responsive using Node.js, Express.js, CSS, JavaScript, React, and Bootstrap.  This project uses frontend and backend. This project uses an API for images. This is a fullstack project with React being the skeleton for this project, a little bit of css style sheets being used but Bootstrap being the main component for styling this project. For the backend, nodejs and express are the main components with MongoDB being used as the database for this project. </p>
+<p>This website is responsive is built using React and Tailwind CSS for the frontend and Firebase is used for the backend where you can sign up to make an account and save movies to your account. </p>
 
 ### Link
 
