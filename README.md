@@ -6,7 +6,7 @@
 
 ### Link
 
-- Live Site: [Netflix](https://misty-jumpsuit-newt.cyclic.app/)
+- Live Site: [Netflix](https://netflix-react-app-ae50a.web.app/)
 
 ### Screenshot
 
