@@ -2,7 +2,7 @@
 
 <h2>A Netflix clone created using React and Tailwind as the frontend and firebase as the backend.</h2>
 
-<p>This website is responsive is built using React and Tailwind CSS for the frontend and Firebase is used for the backend where you can sign up to make an account and save movies to your account.</p>
+<p>This website is responsive and it's built using React and Tailwind CSS for the frontend and Firebase is used for the backend where you can sign up to make an account and save movies to your account.</p>
 
 ### Link
 
