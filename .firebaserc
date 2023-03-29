@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "netflix-react-app-ae50a"
-  }
+    "default": "netflix-react-app-ae50a",
+    "rebuild": "netflix-react-app-ae50a"
+  },
+  "targets": {},
+  "etags": {}
 }
